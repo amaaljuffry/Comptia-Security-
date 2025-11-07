@@ -1,3 +1,32 @@
+# CompTIA Security+ (SY0-701) Notes
+
+This repository contains structured study notes for the **CompTIA Security+ (SY0-701)** certification exam.  
+It is organized by topic for efficient review and long-term reference.
+
+---
+
+## Overview
+
+The CompTIA Security+ certification validates the foundational skills required for cybersecurity professionals.  
+It covers essential security concepts, threats, architecture, operations, and governance.
+
+**Exam Code:** SY0-701  
+**Release Year:** 2024  
+**Recommended Experience:**  
+- CompTIA Network+  
+- 2 years of IT administration experience with a security focus
+
+---
+
+## Domain Breakdown
+
+| Domain | Description | Weight |
+|:-------|:-------------|:--------|
+| 1.0 | General Security Concepts | 12% |
+| 2.0 | Threats, Vulnerabilities, and Mitigations | 22% |
+| 3.0 | Security Architecture | 18% |
+| 4.0 | Security Operations | 28% |
+| 5.0 | Security Program Management & Oversight | 20% |
 
 ---
 
@@ -27,3 +56,4 @@ This repository is maintained by **Ama**
 as part of an independent study effort in cybersecurity and IT governance.
 
 > “Security is a continuous process of learning and improvement.”
+
